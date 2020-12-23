@@ -5,7 +5,7 @@ I do *not* take responsibility for what may happen to your system. This is at yo
 
 Script/Utility/Application to delete linux logs
 
-# How To Run the Windows10SysPrepDebloater.ps1 file
+# How To Run the Log_Cleaner.py file
 
 For the Log_Cleaner.py file, there is one parameter that you can run so that you can specify whether to run in verbose or not. This Is.
 `verbose`. 
